@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1
+Logistic Regression,0.9875,1.0,0.98,0.98989898989899
+Random Forest,1.0,1.0,1.0,1.0
+SVM,0.625,0.625,1.0,0.7692307692307693
